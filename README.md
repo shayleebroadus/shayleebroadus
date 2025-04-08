@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="software-engineering.jpg"  />
+<img align="right" height="150" src="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv"  />
 
 ###
 
