@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv"  />
+<img align="right" height="150" src="[https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTlpeWZ6N2R5cmEydHo0cnIxdTA0cWJ0emtpOWdiY2d6dm1iZGJubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif)"  />
 
 ###
 
